@@ -1,2 +1,3 @@
-# Statistical-Learning-with-customer-data
-Machine/Statistical Learning with data generated from customerAnalytics
+# Machine/Statistical Learning with data generated from customerAnalytics
+
+Both Neural Network model and Logistic Regression model can predict customer "come back" behavior with around 70% accuracy by using only 3 variables/features (Recency, Frequency, and Monetary) generated from the R package [customerAnalytics](https://github.com/maxleungtszchun/customerAnalytics). With more detailed customer demographic data, the accuracy is expected to be improved.
